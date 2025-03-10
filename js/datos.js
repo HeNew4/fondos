@@ -11,7 +11,7 @@ const galleryData = [
     id: 2,
     title: "Najimi",
     category: "Komi San",
-    src: "/img/1000046773_x16_drawing.png",
+    src: "img/1000046773_x16_drawing.png",
     description: "Una joven de cabello lila y expresión entusiasta, con un fondo lleno de conejitos de colores. El contraste entre su uniforme y los conejitos crea una atmósfera divertida y tierna.",
     likes: 0
   },
